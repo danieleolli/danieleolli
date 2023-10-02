@@ -12,7 +12,7 @@ Meu nome é Daniele, sou desenvolvedora Back-end e estudante de Engenharia de So
 
 ## Projetos em Destaque
 
-- [API Banco Digital](https://github.com/danieleolli/projeto-api-bancodigital): Um projeto piloto com funcionalidades como, listagem de contas, criação de nova conta, deposito, saque, transferência, etc.
+- [API Banco Digital](https://github.com/danieleolli/projeto-api-bancodigital): Este é um projeto de API para um Banco Digital que permite a criação, gestão e consulta de contas bancárias. Esta API é o primeiro passo de um projeto maior, com funcionalidades adicionais planejadas para o futuro. A API é construída seguindo os princípios RESTful e armazena os dados em memória.
 
 ## My Skills
 
