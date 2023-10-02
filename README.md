@@ -5,8 +5,11 @@ Meu nome é Daniele, sou desenvolvedora Back-end e estudante de Engenharia de So
 ## O que estou aprendendo
 
 ✅ Linguagens de Programação: JavaScript (Node.js)
+
 ✅ Bancos de Dados: PostgreSQL e MongoDB
+
 ✅ Estruturas e Bibliotecas: Express.js, Mongoose, etc.
+
 ✅ API REST
 
 
