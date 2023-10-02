@@ -12,7 +12,7 @@ Meu nome é Daniele, sou desenvolvedora Back-end e estudante de Engenharia de So
 
 ## Projetos em Destaque
 
-- [API Banco Digital](https://github.com/danieleolli/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t09): Um projeto piloto com funcionalidades como, listagem de contas, criação de nova conta, deposito, saque, transferência, etc.
+- [API Banco Digital](https://github.com/danieleolli/projeto-api-bancodigital): Um projeto piloto com funcionalidades como, listagem de contas, criação de nova conta, deposito, saque, transferência, etc.
 
 ## My Skills
 
