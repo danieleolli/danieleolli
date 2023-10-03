@@ -1,4 +1,4 @@
-# Olá! 🧐
+# Olá, pessoal! 👋
 
 Meu nome é Daniele, sou desenvolvedora Back-end e estudante de Engenharia de Software. Descobrindo minha paixão por resolução de problemas através da tecnologia.
 
