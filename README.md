@@ -19,11 +19,12 @@ Meu nome é Daniele, sou desenvolvedora Back-end e estudante de Engenharia de So
 
 ## My Skills
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Contato
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleoliveiradev/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/danieleoliveiradev/)
 
 ## Contribuições
 
@@ -31,6 +32,4 @@ Se você tiver alguma dúvida ou quiser colaborar em algum projeto, fique à von
 
 ## Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danieleolli&show_icons=true)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleolli&layout=compact)](https://github.com/danieleolli/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danieleolli&show_icons=true&theme=dracula&include_all_commit=true&count_private=true)
