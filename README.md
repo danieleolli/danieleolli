@@ -24,7 +24,6 @@ Meu nome é Daniele, sou desenvolvedora Back-end e estudante de Engenharia de So
 ## Contato
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieleoliveiradev/)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/danieleoliveiradev/)
 
 ## Contribuições
 
