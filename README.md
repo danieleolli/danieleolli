@@ -32,3 +32,5 @@ Se você tiver alguma dúvida ou quiser colaborar em algum projeto, fique à von
 ## Estatísticas
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danieleolli&show_icons=true&theme=dracula&include_all_commit=true&count_private=true)
+
+![Top Linguagens Usadas no GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleolli&theme=dracula&layout=compact&card_width=466)
